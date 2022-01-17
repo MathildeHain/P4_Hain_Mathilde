@@ -11,10 +11,12 @@
   Sophie vous invite dans une réunion pour préciser le périmètre de la mission. Voici le compte-rendu de cette réunion.
   
 **Compte-rendu - réunion de lancement "Amélioration du référencement"**
+
   De: Sophie
   A: Moi
   
   Bonjour, 
+  
   Pour faire suite à notre réunion de tout à l'heure, voici un compte-rendu de ce qui a été décidé.
   Pour rappel, notre site n'apparaît qu'en deuxième page des moteurs de recherche. Pour cela, je souhaiterais que notre référencement soit amélioré.
   Voici les points sur lesquels tu devras travailler :
