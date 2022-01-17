@@ -13,7 +13,8 @@
 **Compte-rendu - réunion de lancement "Amélioration du référencement"**
 
   De: Sophie
-    A: Moi
+    
+  A: Moi
   
   Bonjour, 
   
