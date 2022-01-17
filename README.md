@@ -61,15 +61,15 @@ Avec toutes ces informations en tête, vous vous mettez au travail immédiatemen
 
 ## &nbsp; Les cours
 
-  * Augmenter votre trafic grâce au référencement naturel (SEO)
-  * Optimisez le référencement de votre site (SEO) en améliorant ses performances techniques
-  * Concevez un contenu web accessible
+  * [Augmenter votre trafic grâce au référencement naturel (SEO)](https://openclassrooms.com/fr/courses/5561431-augmentez-votre-trafic-grace-au-referencement-naturel-seo)
+  * [Optimisez le référencement de votre site (SEO) en améliorant ses performances techniques](https://openclassrooms.com/fr/courses/5922626-optimisez-le-referencement-de-votre-site-seo-en-ameliorant-ses-performances-techniques)
+  * [Concevez un contenu web accessible](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible)
 
 ***
 
 ## &nbsp; Les ressources
 
-  * Checklist #SEO: 25 bonnes pratiques pour renforcer votre référencement naturel
+  * [Checklist #SEO: 25 bonnes pratiques pour renforcer votre référencement naturel](https://www.matthieu-tranvan.fr/referencement-naturel/checklist-seo-25-bonnes-pratiques-on-site-pour-renforcer-votre-referencement-naturel.html)
 
 ***
 
