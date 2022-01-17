@@ -10,9 +10,9 @@
   Vous travaillez pour La chouette agence, une grande agence de web design basée à Lyon. L'activité de l'entreprise a bien démarrer mais aujourd'hui, elle est en perte de vitesse. Eh oui, la concurrence est rude. La fondatrice de l'entreprise, Sophie, cherche une solution pour faire repartir l'activité. En tapant "Entreprise web design Lyon" sur internet, elle s'apperçoit que le site ded l'agence apparaît seulement en deuxième page des moteurs de recherche. Par chance, un de vos collègues, Martin, lui a dit que vous étiez un spécialiste en référencement.
   Sophie vous invite dans une réunion pour préciser le périmètre de la mission. Voici le compte-rendu de cette réunion.
   
-  **Compte-rendu - réunion de lancement "Amélioration du référencement"**
-    De: Sophie
-    A: Moi
+**Compte-rendu - réunion de lancement "Amélioration du référencement"**
+  De: Sophie
+  A: Moi
   
   Bonjour, 
   Pour faire suite à notre réunion de tout à l'heure, voici un compte-rendu de ce qui a été décidé.
